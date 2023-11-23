@@ -1,6 +1,3 @@
-package chain2;
-
-
 public class Chain implements Handler{
     private Handler changeHandler;
     @Override
