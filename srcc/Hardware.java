@@ -1,5 +1,3 @@
-package chain2;
-
 public class Hardware implements Handler{
     private Handler changeHandler;
     @Override
