@@ -1,4 +1,3 @@
-package chain2;
 public class Request {
     public enum Type {
         hardware,
