@@ -1,5 +1,3 @@
-package chain2;
-
 public class Software implements Handler{
     private Handler changeHandler;
     @Override
